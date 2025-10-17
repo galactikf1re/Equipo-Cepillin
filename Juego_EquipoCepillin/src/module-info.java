@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Juego_EquipoCepillin {
-}
